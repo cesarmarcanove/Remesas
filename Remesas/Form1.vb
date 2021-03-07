@@ -38,6 +38,7 @@
         'Salida de Datos
         TextMAR.Text = Math.Round(Convert.ToDouble(tasa1), 2) & " $"
         TextPOR.Text = Math.Round(Convert.ToDouble(tasa2), 2) & " $"
+        TextCAN.Text = Math.Round(Convert.ToDouble(unit), 2) & " $"
         TextRem1.Text = Math.Round(Convert.ToDouble(rem1), 2) & " $"
         TextRem2.Text = Math.Round(Convert.ToDouble(rem2), 2) & " $"
         TextDIF.Text = Math.Round(Convert.ToDouble(rem2), 2) & " $"
@@ -48,6 +49,8 @@
         'Limpiar en los ingresos de datos
         TextCOST.Text = " 600 "
         'TextSELL.Text = " 0.0 "
+        TextCAN.Text = " 0.0 "
+
 
         'Limpiar Pantalla en los resultados
         TextMAR.Text = " 0.0 "
