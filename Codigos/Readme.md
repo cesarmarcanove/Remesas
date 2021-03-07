@@ -7,7 +7,7 @@ https://vetusware.com/download/QBasic%204.5/?id=5122
 https://vetusware.com/download/QBasic%20%20QuickBASIC%204.5%204.5/?id=13506
 4. Instalar Python, descargar desde la pagina web: 
 https://www.python.org/
-Windows 8.1, Windows 10 y Windows 11 (Próximamente) descargalo desde: https://www.python.org/downloads/release/python-392/ y para Windows 7 y XP descarguelo desde: https://www.python.org/downloads/release/python-388/ Para Windows 7 y Windows XP.
+Windows 8.1, Windows 10 y Windows 11 (Próximamente) descargalo desde: https://www.python.org/downloads/release/python-392/ y para Windows 7 y XP descarguelo desde: https://www.python.org/downloads/release/python-388/ Para Windows 7 y Windows XP. Y para el Python 2.7.18 lo descarga desde: https://www.python.org/downloads/release/python-2718/ (pronto llegara y lo llamará como **Legacy Python 2** o suena algo similar, hasta que notifica el blog de la pagina principal)
 
 ## Directorios:
 
